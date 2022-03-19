@@ -1,0 +1,21 @@
+@charset 'utf-8';
+
+
+
+.main{
+  display: flex;
+  background-color: black;
+  justify-content: center;
+}
+.mainvideo{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 100px;
+  height: 500px;
+  width: 100%;
+  text-align: center;
+}
+
+.mainvideo video{
+  width: 800px;
+}
